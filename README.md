@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Renz Angelou Rizaga
 - 👀 I have a diverse range of interests, but currently, I am particularly interested in watching javascript tutorial and expanding my knowledge in programming and developing 
 - 🌱 I’m currently learning some basic javascript add staring my first project in making calculator
-- 📫 How to reach me you can contact me in my email renz.rizaga2nd@gmail.com
+- 📫 How to reach me? you can contact me in my email renz.rizaga2nd@gmail.com
 
 <!---
 Rizaga/Rizaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
